@@ -1,2 +1,2 @@
-# landing-page
-landing page
+# Brainwave Matrix Solution
+Brainwave Matrix Solution
